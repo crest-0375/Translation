@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="error_in_downloading_model">Error in downloading model!!</string>
+</resources>
